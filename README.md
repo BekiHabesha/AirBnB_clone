@@ -6,7 +6,7 @@
 </p>
 
 
-* [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)          Or           [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Or%20Go%20To%20Table%20of%20contents,-About)
+* [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)          Or           [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ###
 

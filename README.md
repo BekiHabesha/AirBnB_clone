@@ -5,6 +5,9 @@
   <img src="https://i.ibb.co/vmRg6Dd/0x00-Air-Bn-B-clone-The-console-ALX-a-Logo-for-beki.png" />
 </p>
 
+
+* [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)    [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
+
 ###
 
 * **File_name:📝**  [**README.md**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md) **file** 📒
@@ -22,6 +25,9 @@
 ### [*0x00. AirBnB clone - The console*](https://intranet.alxswe.com/projects/263) *is a Team Project to be done in teams of 2 people or alone (solo)*
 * ***Done by:*** ***Bereket Dereje Mekkonen***
 
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)    [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
+
 ##
 
 ## <ins>**PROJECT_TITLE</ins>:**  🔠 [**0x00. AirBnB clone - The console**](https://intranet.alxswe.com/projects/263) 🔡
@@ -36,16 +42,21 @@
   <img src="https://i.ibb.co/PGZHbC7/hbnb-for-intro-0x00-Air-Bn-B-clone-The-console.png" />
 </p>
 
+###
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
+
+
 <H2> ⛓🪜 <ins>0x00.Table of contents</ins> 🪜🛒 </H2>
 
-* [**0x01. Introduction**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x08.%20Authors-,0x01.%20Introduction,-0x00.%20AirBnB%20clone)
-* [**0x02. Description**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x02.-,Description,-This%20is%20the)
-* [**0x03. Command Interpreter**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=classes%20and%20subclasses.-,0x03.%20Command%20Interpreter,-The%20console%20is)
-* [**0x04. Environment**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=Destroy%20an%20object-,0x04.%20Environment,-All%20the%20development)
-* [**0x05. Installation**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=PEP8-,0x05.%20Installation,-Clone%20The%20Repository)
-* [**0x06. Testing**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x06.-,Testing,-All%20the%20test)
-* [**0x07. Usage**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=tests%22%20%7C%20bash%20command-,0x07.%20Usage,-Start%20the%20console)
-* [**0x08. Authors**](https://github.com/BekiHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
+* [**0x01. Introduction**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x01.-,Introduction,-0x00.%20AirBnB%20clone)
+* [**0x02. Description**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=delete%2C%20update%20them).-,0x02.%20Description,-This%20is%20the)
+* [**0x03. Command Interpreter**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=classes%20and%20subclasses.-,0x03.%20Command%20Interpreter,-The%20console%20is)
+* [**0x04. Environment**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=Destroy%20an%20object-,0x04.%20Environment,-All%20the%20development)
+* [**0x05. Installation**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=PEP8-,0x05.%20Installation,-Clone%20The%20Repository)
+* [**0x06. Testing**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=hbnb)%0A%20%20%20%20%20%20%20%20%24-,0x06.%20Testing,-All%20the%20test)
+* [**0x07. Usage**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=tests%22%20%7C%20bash%20command-,0x07.%20Usage,-Start%20the%20console)
+* [**0x08. Authors**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=hbnb)%20quit%0A%24-,0x07.%20Authors,-%E2%A4%B5%EF%B8%8F)
 
 ###
 
@@ -65,11 +76,15 @@
   * A database or files that store data (data = objects) to manage the backend functionalities
   * An API that provides a communication interface between the front and backend of our system data (retrieve, create, delete, update them).
 
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
+
 ##
 
 <H1><ins>0x02. Description</ins> </H1>
 
 * This is the first phase of a four phase project, to create a basic clone of the AirBnB web app. In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
 
 ##
 
@@ -84,6 +99,9 @@
   * Update attributes of an object
   * Destroy an object
 
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
+
 ##
 
 <H1><ins>0x04. Environment</ins> </H1>
@@ -96,13 +114,16 @@ The editors used were [**VIM 9.1.0000**](https://www.vim.org/download.php#:~:tex
   * [**pycodestyle (version 2.8.*)**](https://pypi.org/project/pycodestyle/)
   * [**PEP8**](https://peps.python.org/pep-0008/)
 
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
+
 ##
 
 <H1><ins>0x05. Installation</ins> </H1>
 
 ### Clone The Repository
-* To Clone the repository of **"https://github.com/BekaHabesha/AirBnB_clone.git"** 
-  * **`git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekiHabesha/AirBnB_clone.git`**
+* To Clone the repository of **"https://github.com/BekiHabesha/AirBnB_clone.git"** 
+  * **`git clone https://ghp_CEU1C7m2l.....H9gc31laLbb@github.com/BekiHabesha/AirBnB_clone.git`**
 * To Access AirBnb directory: 
   * **`cd AirBnB_clone`**
 * To Run hbnb(interactively): 
@@ -148,6 +169,9 @@ The editors used were [**VIM 9.1.0000**](https://www.vim.org/download.php#:~:tex
         (hbnb)
         $
 ```
+
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
 
 ##
 
@@ -198,6 +222,9 @@ All the test are defined in the tests folder.
   <img src="https://i.ibb.co/5jFj2YF/for-non-interactive-0x00-Air-Bn-B-clone.png" />
 </p>
 
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
+
 ##
 
 <H1><ins>0x07. Usage</ins> </H1>
@@ -236,16 +263,19 @@ $
 |   |   |   |   |   |
 | **0** | [**create**](./console.py) | **create <class>** | **Creates an instance<br>according to<br>a given class** | **(hbnb) create BaseModel<br>9gq32x7-w569-1rc2-sz51-3211513d4683<br>(hbnb)** |
 | **1** | [**Show**](./console.py) | **show <class> <id>** | **Prints the string<br>representation of an instance<br>based on the class<br>name and id** | **(hbnb) show BaseModel 6cfb47c4-a434-4da7-ac03-2122624c3762<br>[BaseModel] (a) [BaseModel] (6cfb47c4-a434-4da7-ac03-2122624c3762) {'id': '6cfb47c4-a434-4da7-ac03-2122624c3762', 'created_at': datetime.datetime(2021, 11, 14, 3, 28, 45, 571360), 'updated_at': datetime.datetime(2021, 11, 14, 3, 28, 45, 571389)}<br>(hbnb)** |
-| **2** | [**all**](./console.py) | **** | **Prints all string<br>representation of all<br>instances of<br>a given class.<br>If no class is passed,<br>all classes are printed.** | **(hbnb) create BaseModel<br>e45ddda9-eb80-4858-99a9-226d4f08a629<br>(hbnb) all BaseModel<br>["[BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) [BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) {'id': '4c8f7ebc-257f-4ed1-b26b-e7aace459897', 'created_at': datetime.datetime(2021, 11, 13, 22, 19, 19, 447155), 'updated_at': datetime.datetime(2021, 11, 13, 22, 19, 19, 447257), 'name': 'My First Model', 'my_number': 89}"]<br>["[BaseMode** |
-| **3** | [**update**](./console.py) | **** | **Updates an instance<br>based on the class<br>name, id, and<br>kwargs passed.<br>Update the file.json** | **(hbnb) create User<br>1afa163d-486e-467a-8d38-3040afeaa1a1<br>(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "bereketdm1984@gmail.com"<br>(hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1<br>[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2024, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'bereketdm1984@gmail.com'}<br>(hbnb)** |
-| **4** | [**destroy**](./console.py) | **** | **Deletes an instance<br>of a given class<br>with a given ID.<br>Update the file.json** | __(hbnb) create User<br>0c98d2b8-7ffa-42b7-8009-d9d54b69a472<br>(hbnb) destroy User 0c98d2b8-7ffa-42b7-8009-d9d54b69a472<br>(hbnb) show User 0c98d2b8-7ffa-42b7-8009-d9d54b69a472<br>** no instance found **<br>(hbnb)__ |
-| **5** | [**count**](./console.py) | **** | **Prints the<br>number of instances<br>of a given class.** | **(hbnb) create City<br>4e01c33e-2564-42c2-b61c-17e512898bad<br>(hbnb) create City<br>e952b772-80a5-41e9-b728-6bc4dc5c21b4<br>(hbnb) count City<br>2<br>(hbnb)** |
-| **6** | [**help**](./console.py) | **help <topic>** | **Prints information<br>about specific command** | **((hbnb) help<br><br>Documented commands (type help <topic>):<br>========================================<br>EOF  all  count  create  destroy  help  quit  show  update<br><br>(hbnb)** |
-| **7** | [**quit/<br>EOF**](./console.py) | **** | **Exit the<br>program** | **(hbnb) quit<br>$** |
+| **2** | [**all**](./console.py) |   | **Prints all string<br>representation of all<br>instances of<br>a given class.<br>If no class is passed,<br>all classes are printed.** | **(hbnb) create BaseModel<br>e45ddda9-eb80-4858-99a9-226d4f08a629<br>(hbnb) all BaseModel<br>["[BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) [BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) {'id': '4c8f7ebc-257f-4ed1-b26b-e7aace459897', 'created_at': datetime.datetime(2021, 11, 13, 22, 19, 19, 447155), 'updated_at': datetime.datetime(2021, 11, 13, 22, 19, 19, 447257), 'name': 'My First Model', 'my_number': 89}"]<br>["[BaseMode]** |
+| **3** | [**update**](./console.py) |   | **Updates an instance<br>based on the class<br>name, id, and<br>kwargs passed.<br>Update the file.json** | **(hbnb) create User<br>1afa163d-486e-467a-8d38-3040afeaa1a1<br>(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "bereketdere@gmail.com"<br>(hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1<br>[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2024, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'bereketdere@gmail.com'}<br>(hbnb)** |
+| **4** | [**destroy**](./console.py) |   | **Deletes an instance<br>of a given class<br>with a given ID.<br>Update the file.json** | __(hbnb) create User<br>0c98d2b8-7ffa-42b7-8009-d9d54b69a472<br>(hbnb) destroy User 0c98d2b8-7ffa-42b7-8009-d9d54b69a472<br>(hbnb) show User 0c98d2b8-7ffa-42b7-8009-d9d54b69a472<br>** no instance found **<br>(hbnb)__ |
+| **5** | [**count**](./console.py) |   | **Prints the<br>number of instances<br>of a given class.** | **(hbnb) create City<br>4e01c33e-2564-42c2-b61c-17e512898bad<br>(hbnb) create City<br>e952b772-80a5-41e9-b728-6bc4dc5c21b4<br>(hbnb) count City<br>2<br>(hbnb)** |
+| **6** | [**help**](./console.py) | **help < topic >** | **Prints information<br>about specific command** | **(hbnb) help<br><br>Documented commands (type help <topic>):<br>========================================<br>EOF  all  count  create  destroy  help  quit  show  update<br><br>(hbnb)** |
+| **7** | [**quit/<br>EOF**](./console.py) |   | **Exit the<br>program** | **(hbnb) quit<br>$** |
+
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)   [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.%20Authors-,%E2%A4%B5%EF%B8%8F,-Releases)
 
 ##
 
-<H1><ins>0x07. Authors</ins> </H1>
+<H1><ins>0x08. Authors</ins> </H1>
 
 [![Profile](https://img.shields.io/badge/💻_Bereket_Dereje_🖊️📝-Contact_Me_With-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)⤵️
 
@@ -261,8 +291,9 @@ $
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@beki_beba)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsApp/+251909912345)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/BereketDMY)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BereketDMY)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@fifa_football_agent_bereket) 
 
+
+* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)   [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)
 ##

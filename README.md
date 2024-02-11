@@ -5,8 +5,9 @@
   <img src="https://i.ibb.co/vmRg6Dd/0x00-Air-Bn-B-clone-The-console-ALX-a-Logo-for-beki.png" />
 </p>
 
+###
 
-* [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)          Or           [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)          Or           🟣 [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ###
 
@@ -25,8 +26,9 @@
 ### [*0x00. AirBnB clone - The console*](https://intranet.alxswe.com/projects/263) *is a Team Project to be done in teams of 2 people or alone (solo)*
 * ***Done by:*** ***Bereket Dereje Mekkonen***
 
+###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -44,19 +46,21 @@
 
 ###
 
-* * [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                           [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+
+##
 
 
 <H2> ⛓🪜 <ins>0x00.Table of contents</ins> 🪜🛒 </H2>
 
 * [**0x01. Introduction**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x01.-,Introduction,-0x00.%20AirBnB%20clone)
-* [**0x02. Description**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=delete%2C%20update%20them).-,0x02.%20Description,-This%20is%20the)
-* [**0x03. Command Interpreter**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=classes%20and%20subclasses.-,0x03.%20Command%20Interpreter,-The%20console%20is)
-* [**0x04. Environment**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=Destroy%20an%20object-,0x04.%20Environment,-All%20the%20development)
-* [**0x05. Installation**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=PEP8-,0x05.%20Installation,-Clone%20The%20Repository)
-* [**0x06. Testing**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=hbnb)%0A%20%20%20%20%20%20%20%20%24-,0x06.%20Testing,-All%20the%20test)
-* [**0x07. Usage**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=tests%22%20%7C%20bash%20command-,0x07.%20Usage,-Start%20the%20console)
-* [**0x08. Authors**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=hbnb)%20quit%0A%24-,0x07.%20Authors,-%E2%A4%B5%EF%B8%8F)
+* [**0x02. Description**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x02.-,Description,-This%20is%20the)
+* [**0x03. Command Interpreter**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x03.-,Command%20Interpreter,-The%20console%20is)
+* [**0x04. Environment**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x04.-,Environment,-All%20the%20development)
+* [**0x05. Installation**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x05.-,Installation,-Clone%20The%20Repository)
+* [**0x06. Testing**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x06.-,Testing,-All%20the%20test)
+* [**0x07. Usage**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x07.-,Usage,-Start%20the%20console)
+* [**0x08. Authors**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ###
 
@@ -78,7 +82,7 @@
 
 ###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -87,8 +91,9 @@
 * This is the first phase of a four phase project, to create a basic clone of the AirBnB web app. In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
 
 
+###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -103,9 +108,9 @@
   * Update attributes of an object
   * Destroy an object
 
-####
+###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -119,9 +124,9 @@ The editors used were [**VIM 9.1.0000**](https://www.vim.org/download.php#:~:tex
   * [**pycodestyle (version 2.8.*)**](https://pypi.org/project/pycodestyle/)
   * [**PEP8**](https://peps.python.org/pep-0008/)
 
-####
+###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -177,9 +182,9 @@ The editors used were [**VIM 9.1.0000**](https://www.vim.org/download.php#:~:tex
 ```
 
 
+###
 
-
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -231,9 +236,9 @@ All the test are defined in the tests folder.
 </p>
 
 
-####
+###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -284,7 +289,7 @@ $
 
 ###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or             [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=%E2%A4%B5%EF%B8%8F-,Go%20To%20Top%20Go%20To%20Table%20of%20contents,-Releases)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
 
 ##
 
@@ -295,20 +300,22 @@ $
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekiHabesha)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/FootBall_Manager_Agent_BEREKET_D)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bekahabesha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/Bereketdm1984@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bekihabesha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/Bereketdere@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fifa_football_agent_bereket)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BereketDereje)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/bekahabesha)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/bekihabesha)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FootBall_Manager_Agent_BEREKET_D)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@beki_beba)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsApp/+251909912345)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/BereketDMY)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Bereketdere)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@fifa_football_agent_bereket) 
 
 ###
 
-* [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)
+###
 
-##  
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)
+
+##

@@ -7,7 +7,7 @@
 
 ###
 
-🟢  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)          Or           🟣 [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)          Or           🟣 [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -46,7 +46,7 @@
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -82,7 +82,7 @@
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -93,7 +93,7 @@
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -110,7 +110,7 @@
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -126,7 +126,7 @@ The editors used were [**VIM 9.1.0000**](https://www.vim.org/download.php#:~:tex
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -184,7 +184,7 @@ The editors used were [**VIM 9.1.0000**](https://www.vim.org/download.php#:~:tex
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -238,7 +238,7 @@ All the test are defined in the tests folder.
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 
@@ -289,7 +289,7 @@ $
 
 ###
 
-🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.%20Authors-,%E2%A4%B5%EF%B8%8F,-Go%20To%20Top)
+🟢  [**Go To Top**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=README-,README.md,-File)               Or                🔵  [**Go To Table of contents**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x00.Table%20of%20contents)              Or           🟣  [**Go To Bottom**](https://github.com/BekiHabesha/AirBnB_clone?tab=readme-ov-file#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ##
 

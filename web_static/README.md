@@ -307,6 +307,14 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
 
 ##
 
+## **My <ins>0-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/qWV2Qdd/0-index.png" />
+</p>
+
+##
+
 ## **No. 1. Head styling**:heavy_check_mark:
 * **File:**
   * [**1-index.html**](./1-index.html)
@@ -321,7 +329,15 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
 ###
 * The layout must be exactly the same as [**0-index.html**](./0-index.html)
 
-###
+##
+
+## **My <ins>1-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/ZWJxy4d/1-index.png" />
+</p>
+
+##
 
 ## **No. 2. CSS files** :heavy_check_mark:
 * **File:**
@@ -341,6 +357,14 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
     * [**styles/2-footer.css**](./styles/2-footer.css) **:** for footer style
 ###
 * The layout must be exactly the same as [**1-index.html**](./1-index.html)
+
+##
+
+## **My <ins>2-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/VTxSSGg/2-index.png" />
+</p>
 
 ##
 
@@ -390,7 +414,15 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
   <img src="https://i.ibb.co/NpNDSkL/3-main-0x01-Air-Bn-B-clone-Web-static.png" />
 </p>
 
-###
+##
+
+## **My <ins>3-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/PhRMGf9/3-index.png" />
+</p>
+
+##
 
 ## **No. 4. Search!** :heavy_check_mark:
 * **File:**
@@ -451,6 +483,14 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
 
 ##
 
+## **My <ins>4-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/3YWsm8n/4-index.png" />
+</p>
+
+##
+
 ## **No. 5. More filters**:heavy_check_mark:
 * **File:**
   * [**5-index.html**](./5-index.html) ,
@@ -496,7 +536,15 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
   <img src="https://i.ibb.co/1mkNQvT/5-main-0x01-Air-Bn-B-clone-Web-static.png" />
 </p>
 
-###
+##
+
+## **My <ins>5-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/y85NG1K/5-index.png" />
+</p>
+
+##
 
 ## **No. 6. It's (h)over** :heavy_check_mark:
 * **File:**
@@ -539,6 +587,16 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
 <p align="center">
   <img src="https://i.ibb.co/bX3NsSt/6-1-main-0x01-Air-Bn-B-clone-Web-static.png" />
   <img src="https://i.ibb.co/3TsPBP5/6-2-main-0x01-Air-Bn-B-clone-Web-static.png" />
+</p>
+
+##
+
+## **My <ins>6-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/v4VkvWt/6-index.png" />
+  <img src="https://i.ibb.co/RCcX8zZ/6-1-index.png" />
+  <img src="https://i.ibb.co/875YBMM/6-2-index.png" />
 </p>
 
 ##
@@ -592,7 +650,15 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
   <img src="https://i.ibb.co/D8wPLCj/7-main-0x01-Air-Bn-B-clone-Web-static.png" />
 </p>
 
-###
+##
+
+## **My <ins>7-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/jwV7bt2/7-index.png" />
+</p>
+
+##
 
 ## **No. 8. More details**:heavy_check_mark:
 * **File:**
@@ -668,7 +734,16 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
   <img src="https://i.ibb.co/tD72sHf/8-main-0x01-Air-Bn-B-clone-Web-static.png" />
 </p>
 
-#
+##
+
+## **My <ins>8-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/bPMh2Wv/8-1-index.png" />
+  <img src="https://i.ibb.co/XpwSMK8/8-2-index.png" />
+</p>
+
+##
 
 <H1 align="center">‼️ADVANCED_TASKS⁉️ (From Task 9 to Task 12) :cd:</h1>
 
@@ -734,7 +809,17 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
   <img src="https://i.ibb.co/K7HcZCg/9-main-0x01-Air-Bn-B-clone-Web-static.png" />
 </p>
 
-###
+##
+
+## **My <ins>100-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/485Kvrh/9-100-index.png" />
+  <img src="https://i.ibb.co/wc4Cvn3/9-100-2-index.png" />
+  <img src="https://i.ibb.co/Fq0mxsD/9-100-3-index.png" />
+</p>
+
+##
 
 ## **No. 10. Flex** :heavy_check_mark:
 * **File:**
@@ -748,6 +833,16 @@ Write an ${{\color{red}{\textsf{ HTML page\ \}}}}\$ that displays a ${{\color{re
 ###
 Improve the Places section by using [**Flexible boxes**](https://intranet.alxswe.com/rltoken/Xc-nBlQHexwNaCuKYpZ2-A) for all Place articles<br>
 [**Flexbox Froggy**](https://intranet.alxswe.com/rltoken/PZz46Gkdj5Mo9-AWERPhQA)
+
+##
+
+## **My <ins>101-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/Fnvxvgy/10-101-1-index.png" />
+  <img src="https://i.ibb.co/9bpNRsg/10-101-2-index.png" />
+  <img src="https://i.ibb.co/jbbFsqC/10-101-3-index.png" />
+</p>
 
 ##
 
@@ -767,7 +862,17 @@ Improve the page by adding [**responsive design**](https://intranet.alxswe.com/r
   * redesign search bar depending of the width
   * etc.
 
-###
+##
+
+## **My <ins>102-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/S7NWHBZ/11-102-1-index.png" />
+  <img src="https://i.ibb.co/BjMRQh6/11-102-2-index.png" />
+  <img src="https://i.ibb.co/RPyvSMg/11-102-3-index.png" />
+</p>
+
+##
 
 ## **12. Accessibility**:heavy_check_mark:
 * **File:**
@@ -784,4 +889,14 @@ Improve the page by adding [**Accessibility support**](https://intranet.alxswe.c
   * Colors contrast
   * Header tags
   * etc.
+##
+
+## **My <ins>103-index.html</ins> Output**
+
+<p align="center">
+  <img src="https://i.ibb.co/mhs4h0p/12-103-1-index.png" />
+  <img src="https://i.ibb.co/prTck62/12-103-2-index.png" />
+  <img src="https://i.ibb.co/jTx7thL/12-103-3-index.png" />
+</p>
+
 ##
